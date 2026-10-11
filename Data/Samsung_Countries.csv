@@ -1,0 +1,19 @@
+﻿CountryID,CountryName,Region,CurrencyCode,MarketType
+C001,India,Asia Pacific,INR,Emerging
+C002,United States,North America,USD,Mature
+C003,United Kingdom,Europe,GBP,Mature
+C004,Germany,Europe,EUR,Mature
+C005,France,Europe,EUR,Mature
+C006,South Korea,Asia Pacific,KRW,Mature
+C007,Japan,Asia Pacific,JPY,Mature
+C008,Australia,Asia Pacific,AUD,Mature
+C009,Singapore,Asia Pacific,SGD,Mature
+C010,Brazil,Latin America,BRL,Emerging
+C011,Mexico,Latin America,MXN,Emerging
+C012,United Arab Emirates,Middle East,AED,Mature
+C013,South Africa,Africa,ZAR,Emerging
+C014,Vietnam,Asia Pacific,VND,Emerging
+C015,Canada,North America,CAD,Mature
+C016,Spain,Europe,EUR,Mature
+C017,Italy,Europe,EUR,Mature
+C018,Malaysia,Asia Pacific,MYR,Emerging

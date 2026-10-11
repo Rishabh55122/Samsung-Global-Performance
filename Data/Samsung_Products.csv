@@ -1,0 +1,31 @@
+﻿ProductID,ProductName,ProductCategory,BusinessDivision,ModelYear,ListPriceUSD,WarrantyMonths
+P001,Galaxy S25 Ultra,Smartphone,DX,2025,1299,12
+P002,Galaxy S25+,Smartphone,DX,2025,999,12
+P003,Galaxy S25,Smartphone,DX,2025,799,12
+P004,Galaxy Z Fold6,Foldable Phone,DX,2024,1899,12
+P005,Galaxy Z Flip6,Foldable Phone,DX,2024,1099,12
+P006,Galaxy A56,Smartphone,DX,2025,499,12
+P007,Galaxy Tab S10 Ultra,Tablet,DX,2024,1199,12
+P008,Galaxy Tab S10+,Tablet,DX,2024,999,12
+P009,Galaxy Watch Ultra,Wearable,DX,2024,649,12
+P010,Galaxy Watch7,Wearable,DX,2024,299,12
+P011,Galaxy Buds3 Pro,Audio,DX,2024,249,12
+P012,Galaxy Book5 Pro,Laptop,DX,2025,1399,12
+P013,Neo QLED 8K 85-inch,TV,DX,2025,4999,24
+P014,OLED 4K 65-inch,TV,DX,2025,2299,24
+P015,The Frame 55-inch,Lifestyle TV,DX,2025,1499,24
+P016,Crystal UHD 65-inch,TV,DX,2025,699,24
+P017,Bespoke French Door Refrigerator,Refrigerator,DX,2025,2499,24
+P018,Bespoke AI Laundry Combo,Washer-Dryer,DX,2025,2999,24
+P019,Front Load Washer 9kg,Washing Machine,DX,2024,899,24
+P020,WindFree Air Conditioner,Air Conditioner,DX,2025,1199,24
+P021,Smart Monitor M8,Monitor,DX,2025,699,24
+P022,Odyssey OLED G8,Gaming Monitor,DX,2025,1299,24
+P023,T7 Shield Portable SSD 2TB,Storage,DS,2024,199,36
+P024,990 PRO NVMe SSD 2TB,Storage,DS,2024,229,36
+P025,DDR5 Memory Module 32GB,Memory Component,DS,2025,119,36
+P026,UFS Mobile Storage 256GB,Memory Component,DS,2025,35,36
+P027,Exynos Mobile Processor,Semiconductor,DS,2025,65,36
+P028,Image Sensor Module,Semiconductor,DS,2025,28,36
+P029,HARMAN Automotive Audio System,Automotive Electronics,Other,2025,450,24
+P030,Smart Signage Display 55-inch,Commercial Display,DX,2025,1199,36
